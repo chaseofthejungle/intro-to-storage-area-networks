@@ -29,3 +29,7 @@
 <hr />
 
 ## 5. <a name="supplemental">Supplemental Resources</a>
+
+* *[UniFi Network Attached Storage (Official Webpage)](https://ui.com/integrations/network-storage)*
+* *[Ubiquiti NAS: Setup and Integration (UniHosted Article)](https://www.unihosted.com/blog/ubiquiti-nas-setup-and-integration)*
+* *[Cisco Storage Area Networking Solutions (Official Webpage)](https://www.cisco.com/site/us/en/products/networking/cloud-networking-switches/storage-area-networking/index.html)*
